@@ -25,6 +25,18 @@
     "scriptSrc": "bitrix(?:\\.info/|/js/main/core)",
     "website": "https://www.1c-bitrix.ru"
   },
+  "1hoge": {
+    "cats": [
+      67
+    ],
+    "icon": "2badvice.png",
+    "js": {
+      "BBCookieControler": ""
+    },
+    "saas": true,
+    "scriptSrc": "2badvice-cdn\\.azureedge\\.net",
+    "website": "https://www.2b-advice.com/en/data-privacy-software/cookie-consent-plugin/"
+  },
   "2B Advice": {
     "cats": [
       67
